@@ -5,5 +5,5 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 
 @SpringBootApplication
 @EntityScan(basePackageClasses = User.class)
-class BasicConfiguration {
+class Configuration {
 }
